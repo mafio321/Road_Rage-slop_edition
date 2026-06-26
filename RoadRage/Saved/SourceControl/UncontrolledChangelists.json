@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/Input/Actions/IA_HoldAction.uasset",
+				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/Input/IMC_Default.uasset",
+				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/Input/Actions/IA_Acc.uasset",
+				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/Input/Actions/IA_Dec.uasset",
 				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset",
 				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
 				"C:/Users/user/Documents/GitHub/Road_Rage-slop_edition/RoadRage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset",
